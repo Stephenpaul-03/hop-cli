@@ -1,0 +1,31 @@
+{
+  "name": "hop-cli",
+  "version": "1.0.0",
+  "description": "A cross-platform CLI tool that generates instant launchers for your dev projects.",
+  "main": "index.js",
+  "bin": {
+    "hop": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephenpaul-03/hop-cli.git"
+  },
+  "keywords":  ["cli", "automation", "dev", "launcher", "shortcut"],
+  "author": "Stephen Paul",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.3.8"
+  },
+  "bugs": {
+    "url": "https://github.com/Stephenpaul-03/hop-cli/issues"
+  },
+  "homepage": "https://github.com/Stephenpaul-03/hop-cli#readme"
+}
