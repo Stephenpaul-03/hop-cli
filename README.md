@@ -35,15 +35,15 @@ You can run `hop-cli` directly via `npx`, install it globally, or run it locally
 ### Option 1: Use NPX
 
 ```bash
-npx hop peek
-npx hop spark
-npx hop ignite
+npx @stephenpaul_03/hop peek
+npx @stephenpaul_03/hop spark
+npx @stephenpaul_03/hop ignite
 ```
 
 ### Option 2: Install Globally
 
 ```bash
-npm install -g hop-cli
+npm install -g @stephenpaul_03/hop-cli
 hop peek
 hop spark
 hop ignite
