@@ -2,7 +2,7 @@
 
 A cross-platform CLI that builds **one-click launchers** for your development projects.
 
-With `hop ignite`, you can open your dev folder, run a command, launch your code editor, and even open browsers to local URLs — all from a single desktop shortcut.
+With `hop ignite`, you can open your dev folder, run a command, launch your code editor, and even open browsers to local URLs - all from a single desktop shortcut.
 
 ## Features
 
@@ -21,7 +21,7 @@ Supported platforms and launcher types:
 * **Linux**: `.sh` + optional `.desktop` for manual clickability
 
 ```
-Note: Linux and macOS support are untested as of now.
+Note: macOS support is untested as of now.
 ```
 
 ## Installation
@@ -116,6 +116,7 @@ hop ignite my-project
 ```
 
 By default, it’ll confirm before running (for safety).
+
 To skip confirmation:
 
 ```bash
